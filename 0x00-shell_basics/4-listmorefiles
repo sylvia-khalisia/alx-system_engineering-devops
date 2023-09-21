@@ -1,1 +1,2 @@
-diueui
+#!/bin/bash
+ls -lah
